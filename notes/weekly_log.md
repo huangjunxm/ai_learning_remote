@@ -1,0 +1,10 @@
+# Week 1 Log
+
+## 今天完成了远程 venv 和 requests 测试
+- 我在远程 Ubuntu 上创建并激活了 Python 3.11 的 .venv
+- 我成功安装了 requests，并运行 test_env.py 输出了版本号 2.32.5
+
+## 我现在理解的内容
+- venv 是项目独立的 Python 环境
+- python -m pip install 会把包装到当前这个 Python 对应的环境里
+- test_env.py 是按从上到下顺序执行的
