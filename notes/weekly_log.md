@@ -15,3 +15,9 @@
 - 这是在 git add 之后再次追加的一行
 - 我开始学习如何查看具体修改内容
 - 我开始学习日常 Git 提交流程
+
+## 今天完成的 Git / GitHub 能力
+- 我学会了 git status、git diff、git add、git commit、git push 的日常流程
+- 我把远程 Ubuntu 上的仓库成功推送到了 GitHub
+- 我把 Git 远程地址从 HTTPS 改成了 SSH
+- 我配置了 SSH key，并实现了以后 push 不用再输入 GitHub token
