@@ -8,3 +8,5 @@
 - venv 是项目独立的 Python 环境
 - python -m pip install 会把包装到当前这个 Python 对应的环境里
 - test_env.py 是按从上到下顺序执行的
+
+- 我完成了第一次 Git commit
