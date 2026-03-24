@@ -21,3 +21,4 @@
 - 我把远程 Ubuntu 上的仓库成功推送到了 GitHub
 - 我把 Git 远程地址从 HTTPS 改成了 SSH
 - 我配置了 SSH key，并实现了以后 push 不用再输入 GitHub token
+- 我已经学会在 VS Code Remote SSH 中直接运行远程 Python 脚本
